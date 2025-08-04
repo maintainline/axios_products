@@ -20,9 +20,7 @@ export const BeautyIdBox = styled.div`
   margin-bottom: 20px;
   cursor: pointer;
   box-shadow: 0 0 0 transparent;
-  transition:
-    box-shadow 0.2s,
-    transform 0.2s;
+  transition: box-shadow 0.2s, transform 0.2s;
   &:hover {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     transform: translateY(-5px);
